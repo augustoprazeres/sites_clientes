@@ -1,0 +1,1 @@
+{"name": "Samantha · Protótipo de eventos", "short_name": "Eventos Demo", "start_url": "./demo.html", "scope": "./", "display": "standalone", "background_color": "#f9f8f3", "theme_color": "#344b3e", "icons": [{"src": "icon.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
